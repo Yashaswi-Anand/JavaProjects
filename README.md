@@ -1,2 +1,5 @@
-# Staircase
-Create a pattern like stair from right to left direction
+Java Projects :
+
+All projects is taken from Hackerrank and solved it.
+For example:
+Staircase, reverseArray,
